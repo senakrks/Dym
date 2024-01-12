@@ -1,0 +1,2 @@
+#todo
+#lisans tez hakkında
